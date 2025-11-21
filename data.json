@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "des": "Genius billionaire in a high-tech suit",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nBG0t3cg_RWFrrdDiIZssi4jjN7EKHfgTg&s"
+  },
+  {
+    "id": 2,
+    "name": "Captain America",
+    "des": "Super soldier with indestructible shield",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx9PZSaNSJhDYDClMX23KOcVADBw7WxnGkQ&s"
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "des": "God of Thunder with mighty hammer",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPZl7gUXIA-zIQoRvtj-WKdmMGnVw7uKd8g&s"
+  },
+  {
+    "id": 4,
+    "name": "Hulk",
+    "des": "Green giant with incredible strength",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNuNLZJ6jQJHEDgDR3_7RbZvuLvSqranhBVA&s"
+  },
+  {
+    "id": 5,
+    "name": "Black Widow",
+    "des": "Master spy and skilled fighter",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzN-iT-eCVWZodlFk980K319GybO3IBkqA8A&s"
+  },
+  {
+    "id": 6,
+    "name": "Hawkeye",
+    "des": "Expert archer with perfect aim",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmwfAVl5xq6PuaQuWP_Fomq_LBF0P5xaS1g&s"
+  },
+  {
+    "id": 7,
+    "name": "Spider-Man",
+    "des": "Young hero with spider-like abilities",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Doctor Strange",
+    "des": "Master of mystical arts",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Doctor_Strange_%282016_film%29_poster.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Black Panther",
+    "des": "King of Wakanda with enhanced abilities",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_film_poster.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ant-Man",
+    "des": "Can shrink or grow in size with suit",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/75/Ant-Man_poster.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vision",
+    "des": "Android with synthetic intelligence and powers",
+    "img": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Vision-Avengers.Age.of.Ultron.webp"
+  },
+  {
+    "id": 12,
+    "name": "Scarlet Witch",
+    "des": "Powerful sorceress with reality-altering abilities",
+    "img": "https://popcollectibles.store/cdn/shop/files/image_01b0bfcf-b384-4678-be09-7489cd99a759_1638x.jpg?v=1684752427"
+  },
+  {
+    "id": 13,
+    "name": "Falcon",
+    "des": "Expert aerial combatant with mechanical wings",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbGftTcmqWcg5VwR88_yY5f_kHQFQerhxhQ&s"
+  },
+  {
+    "id": 14,
+    "name": "Winter Soldier",
+    "des": "https://preview.redd.it/what-do-you-think-is-the-future-of-the-winter-soldier-in-v0-5ltd7ml9gi1f1.jpeg?width=640&crop=smart&auto=webp&s=c46ae51a05f74f112ced7664a6bd0609722838fe"
+  },
+  {
+    "id": 15,
+    "name": "Star-Lord",
+    "des": "https://i.pinimg.com/736x/89/3a/c1/893ac1b31a89071e67cd29d552581e72.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Gamora",
+    "des": "https://images.squarespace-cdn.com/content/v1/52a86cb9e4b098a46d38a18c/1533005423733-NTZDG6P7OEEN6IC282EP/gamora-fan-art-tony-santiago.jpg?format=750w"
+  },
+  {
+    "id": 17,
+    "name": "Rocket Raccoon",
+    "des": "https://i.pinimg.com/736x/80/78/c6/8078c63b24e5aeb739e6e41ad812d0c9.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Groot",
+    "des": "Sentient tree with regenerative powers",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrj4gSM3PmKawUjr6awRPp3W6_bcI1qPDfHA&s"
+  },
+  {
+    "id": 19,
+    "name": "Drax",
+    "des": "Warrior with super strength and combat skills",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjIGvdQ3MUjhSwZON3BGdhtePXlQ1nq1NDrg&s"
+  },
+  {
+    "id": 20,
+    "name": "Captain Marvel",
+    "des": "Hero with cosmic powers and super strength",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy93jwpHfSCPm5PL-6PskFx7FEAR0V2EauEA&s"
+  }
+]
